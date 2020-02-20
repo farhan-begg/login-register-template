@@ -62,6 +62,7 @@
   cursor: pointer;
   border-radius: 50%;
 }
+
 .input-group {
   top: 180px;
   position: absolute;
@@ -89,3 +90,13 @@
   margin: auto;
   background: linear-gradient(to right, #ff105f, #ffad06);
 }
+
+.input-group {
+  top: 180px;
+  position: absolute;
+  width: 280px;
+  transition: .5s;
+
+}
+
+.input-group
